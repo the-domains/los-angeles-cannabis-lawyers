@@ -1,0 +1,37 @@
+colors:
+  brandColors:
+    - 'hsl(0,0%,100%)'
+    - 'hsl(0,0%,80%)'
+    - 'hsl(0,0%,60%)'
+    - 'hsl(0,0%,30%)'
+    - 'hsl(0,0%,20%)'
+name: Los Angeles Cannabis Lawyers
+layout_spectrum: 0.1638693881686777
+typography_spectrum: 0.7095442896243185
+color:
+  brandStrength: 0.9375390773639083
+  lightness: 0.8704230359289795
+  saturation: 0.9731293888762593
+  rhythmicContrast: 0.7602398064918816
+  brandColors:
+    - '#050503'
+    - '#16430D'
+    - '#29711B'
+    - '#4EA44D'
+    - '#74C45E'
+content: []
+title: 'Your Los Angeles Cannabis Business Lawyers '
+description: >-
+  Los Angeles cannabis business lawyers can help you navigate the legal issues
+  from cultivation, transportation to commercial sale of your cannabis product. 
+purpose:
+  - type: email
+    url: 'tel:6265896609'
+    label: Call 626 589 6609 for free initial consultation
+content_rating:
+  adult: false
+author:
+  name: James Harrington
+  email: jamesharringtonlaw@gmail.com
+  url: 'http://lacannabiz.lawyer'
+github: true
