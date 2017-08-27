@@ -1,13 +1,6 @@
-colors:
-  brandColors:
-    - 'hsl(0,0%,100%)'
-    - 'hsl(0,0%,80%)'
-    - 'hsl(0,0%,60%)'
-    - 'hsl(0,0%,30%)'
-    - 'hsl(0,0%,20%)'
-name: Los Angeles Cannabis Lawyers
-layout_spectrum: 0.1638693881686777
 typography_spectrum: 0.7095442896243185
+content_rating:
+  adult: false
 color:
   brandStrength: 0.9375390773639083
   lightness: 0.8704230359289795
@@ -19,8 +12,26 @@ color:
     - '#29711B'
     - '#4EA44D'
     - '#74C45E'
-content: []
+github: true
+layout_spectrum: 0.1638693881686777
+author:
+  name: James Harrington
+  email: jamesharringtonlaw@gmail.com
+  url: 'http://lacannabiz.lawyer'
+name: Los Angeles Cannabis Lawyers
+colors:
+  brandColors:
+    - 'hsl(0,0%,100%)'
+    - 'hsl(0,0%,80%)'
+    - 'hsl(0,0%,60%)'
+    - 'hsl(0,0%,30%)'
+    - 'hsl(0,0%,20%)'
+navigation:
+  - name: Topics you must know about to open and operate in Los Angeles
+    id: 36506d3d-d316-408e-bc84-a21518e458e2
+    type: content
 title: 'Your Los Angeles Cannabis Business Lawyers '
+content: []
 description: >-
   Los Angeles cannabis business lawyers can help you navigate the legal issues
   from cultivation, transportation to commercial sale of your cannabis product. 
@@ -31,10 +42,3 @@ purpose:
   - type: contact
     url: 'mailto:jamesharringtonlaw@gmail.com'
     label: 'Contact me:'
-content_rating:
-  adult: false
-author:
-  name: James Harrington
-  email: jamesharringtonlaw@gmail.com
-  url: 'http://lacannabiz.lawyer'
-github: true
