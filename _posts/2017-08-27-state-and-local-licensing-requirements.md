@@ -1,16 +1,18 @@
 ---
 inFeed: true
 description: ''
-dateModified: '2017-08-27T02:40:29.640Z'
-datePublished: '2017-08-27T02:40:30.196Z'
+dateModified: '2017-08-27T20:36:42.811Z'
+datePublished: '2017-08-27T20:36:43.434Z'
 title: State and Local Licensing Requirements
 author: []
 publisher: {}
 via: {}
 sourcePath: _posts/2017-08-27-state-and-local-licensing-requirements.md
+hasPage: true
 starred: false
 datePublishedOriginal: '2017-08-27T02:36:43.668Z'
-_type: Blurb
+url: state-and-local-licensing-requirements/index.html
+_type: Article
 
 ---
 ## State and Local Licensing Requirements
