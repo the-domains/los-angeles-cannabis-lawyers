@@ -28,9 +28,6 @@ purpose:
   - type: email
     url: 'tel:6265896609'
     label: Call 626 589 6609 for free initial consultation
-  - type: contact
-    url: 'mailto:jamesharringtonlaw@gmail.com'
-    label: 'Questions to:'
 content_rating:
   adult: false
 author:
