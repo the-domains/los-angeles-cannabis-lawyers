@@ -17,7 +17,7 @@ layout_spectrum: 0.1638693881686777
 author:
   name: James Harrington
   email: jamesharringtonlaw@gmail.com
-  url: 'http://lacannabiz.lawyer'
+  url: 'https://thegrid.ai/los-angeles-cannabis-lawyers/'
 name: Los Angeles Cannabis Lawyers
 colors:
   brandColors:
@@ -49,7 +49,6 @@ content:
         domain: the-grid-user-content.s3-us-west-2.amazonaws.com
       keywords: []
       description: ''
-      inLanguage: !<tag:yaml.org,2002:js/undefined> ''
       app_links: []
       '@context': 'http://schema.org'
       '@type': MediaObject
@@ -67,3 +66,5 @@ purpose:
   - type: contact
     url: 'mailto:jamesharringtonlaw@gmail.com'
     label: 'Contact me:'
+favicon: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/c9cf99cf-78f3-4254-8c78-a412d5843798.gif
